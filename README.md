@@ -17,8 +17,9 @@ pip install PyQtWebEngine
 
 #--------Member's Information--------
 
+# Abdullah Al Ryan | ID: 192-15-13088
 # Md. Mahfujur Rahman | ID: 192-15-13207
 # Samiul Arafah Dhrubo | ID: 192-15-13051
 # Lamia Binta Progga | ID: 192-15-13222
 # Saima Binta Younus | ID: 192-15-13137
-# Abdullah Al Ryan | ID: 192-15-13088
+
