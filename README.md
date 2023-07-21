@@ -9,8 +9,6 @@ pip install PyQtWebEngine
 
 #----------In the name of ALLAH, The Rohim, The Rahman-----------
 
-#Project name: Corom Browser
-
-#by Team PENTAGON
+#Project name: Chorom Browser
 
 #Please open 'main.py' file to see the project code.
